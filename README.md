@@ -12,11 +12,14 @@
 <a href="https://fredysomy.hashnode.dev"><img height="32px" width="32px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compressUQ1nKYMaA=w384-h384"></a>
 
 
-* I am a Software Engineer, Uses Python and Javascript.<br>
+* I am a Software Engineer, Uses Java,Python and Javascript.<br>
 
-* Javascript is ❤️.<br>
+*I ❤️ to solve real world problems.<br>
+*Javascript is❤️ <br>
 
-* Know Flask,Django,Node,Express,React, Streamlit<br>
+🔭 I’m currently working on improving my problem solving ability.
+⚡ Fun fact about me: I'm from Mechanical and Automation Engineering background.
+* Know Flask,Django,Node,Express,React,Streamlit<br>
 * Love to make :
   * Web Apps.
   * CLI's
