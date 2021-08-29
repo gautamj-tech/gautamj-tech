@@ -6,7 +6,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Gautaamm1?style=social)
 
 
-<a href=""><img height="32px" width="32px" src="https://gblobscdn.gitbook.com/spaces%2F-LX2wpUXI1eWMY46nkHR%2Favatar-rectangle.png?alt=media"></a>
+<a href="https://devfolio.co/@Gautamjain"><img height="32px" width="32px" src="https://gblobscdn.gitbook.com/spaces%2F-LX2wpUXI1eWMY46nkHR%2Favatar-rectangle.png?alt=media"></a>
 <a href="https://www.linkedin.com/in/gautam-jain-2b059718b/"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
 <a href="https://twitter.com/Gautaamm1"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaGWjOH7kQ2Vpv34G4VtDKSWVwkuqiPxV6Q&usqp=CAU"></a>
 <a href="https://leetcode.com/Gautam88/"><img height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
@@ -17,7 +17,7 @@
 * I ❤️ to solve real world problems.<br>
 * Javascript is❤️.<br>
 
-🔭 I’m currently working on improving my problem solving ability.
+🔭 I’m Currently Working on Improving My Problem Solving Skill.<br>
 ⚡ Fun fact about me: I'm from Mechanical and Automation Engineering background.
 * Know Flask,Django,Node,Express,React,Streamlit<br>
 * Love to make :
