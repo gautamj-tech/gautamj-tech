@@ -9,7 +9,7 @@
 <a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgajA05XF6eHfhMRKT9EunERUm82WuKMe8MQ&usqp=CAU"></a>
 <a href="https://www.linkedin.com/in/gautam-jain-2b059718b/"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
 <a href="https://twitter.com/Gautaamm1"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaGWjOH7kQ2Vpv34G4VtDKSWVwkuqiPxV6Q&usqp=CAU"></a>
-<a href="https://fredysomy.hashnode.dev"><img height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
+<a href="https://leetcode.com/Gautam88/"><img height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
 
 
 * I am a Software Engineer, Uses Java,Python and Javascript.<br>
