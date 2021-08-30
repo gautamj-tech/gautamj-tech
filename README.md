@@ -12,14 +12,14 @@
 <a href="https://leetcode.com/Gautam88/"><img height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
 
 
-* I am a Software Engineer, Uses Java,Python and Javascript.<br>
+* I am a Full stack developer. Uses Java, Python, Javascript and Typescript.<br>
 
 * I ❤️ to solve real world problems.<br>
-* Javascript is❤️.<br>
 
-🔭 I’m Currently Working on Improving My Problem Solving Skill.<br>
+
+🔭 I’m Currently Working on Improving My Problem Solving Skills.<br>
 ⚡ Fun fact about me: I'm from Mechanical and Automation Engineering background.
-* Know Flask,Django,Node,Express,React,Streamlit<br>
+* Know Flask, Django, Node, Express, React, Streamlit.<br>
 * Love to make :
   * Web Apps.
   * CLI's
